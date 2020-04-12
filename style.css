@@ -1,0 +1,72 @@
+.homeimg {
+    background: url(img/webimage/Opening.jpg);
+    padding: 400px;
+}
+
+.video {
+    margin: 10px;
+}
+
+.font1 {
+    color: white;
+}
+
+.border1 {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.border2 {
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+}
+
+.high1 {
+    margin: 20px auto;
+}
+
+.high1 img {
+    height: 305px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.card1 {
+    margin-top: 20px;
+}
+.card11 {
+    position: relative;
+    left: -17px;
+    top: 20px;
+}
+.card12 {
+    margin-left: -6px;
+    position: relative;
+    top: 20px;
+}
+.card13{
+    position: relative;
+    top: 20px;
+    margin-left: 10px;
+}
+.card14 {
+    position: relative;
+    top: 20px;
+    right: -20px;
+    margin-left: -10px;
+    
+}
+
+.img1 {
+    height: 20px;
+    width: 30px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+
+.slide1 {
+    margin-top: 50px;
+}
+
